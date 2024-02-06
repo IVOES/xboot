@@ -2,4 +2,4 @@
 
 sudo apt-get install -y libsdl2-dev libdrm-dev
 make clean
-make CROSS_COMPILE="" PLATFORM=x64-sandbox
+make
